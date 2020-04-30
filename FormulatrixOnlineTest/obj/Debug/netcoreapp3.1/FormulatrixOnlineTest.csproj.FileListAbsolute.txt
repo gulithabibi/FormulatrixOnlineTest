@@ -1,0 +1,34 @@
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.AssemblyInfoInputs.cache
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.AssemblyInfo.cs
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.exe
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.deps.json
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.runtimeconfig.json
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.runtimeconfig.dev.json
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.csprojAssemblyReference.cache
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.csproj.CopyComplete
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\DATA\ALL IT\Poject.Net\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.deps.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.runtimeconfig.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.runtimeconfig.dev.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.csprojAssemblyReference.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.csproj.CoreCompileInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.AssemblyInfoInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.AssemblyInfo.cs
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.csproj.CopyComplete
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\FormulatrixOnlineTest\obj\Debug\netcoreapp3.1\FormulatrixOnlineTest.genruntimeconfig.cache

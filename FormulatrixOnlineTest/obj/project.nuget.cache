@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5uGcwDmKlvmLBVgKfOJO13ZwthT4xOIgqkEAZm5uXigYf5ETbnb8TCSHFODxjQ4d+HK8E/PkDtdJd4GN+hs+g==",
+  "success": true,
+  "projectFilePath": "D:\\GULIT\\Opportunity\\FormulatrixOnlineTest\\FormulatrixOnlineTest\\FormulatrixOnlineTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gulit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

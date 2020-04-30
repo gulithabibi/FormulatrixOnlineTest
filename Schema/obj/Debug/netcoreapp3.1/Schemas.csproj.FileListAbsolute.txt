@@ -1,0 +1,23 @@
+D:\DATA\ALL IT\Poject.Net\Schema\obj\Debug\netcoreapp3.1\Schemas.AssemblyInfoInputs.cache
+D:\DATA\ALL IT\Poject.Net\Schema\obj\Debug\netcoreapp3.1\Schemas.AssemblyInfo.cs
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.deps.json
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.runtimeconfig.json
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.runtimeconfig.dev.json
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\DATA\ALL IT\Poject.Net\Schema\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\DATA\ALL IT\Poject.Net\Schema\obj\Debug\netcoreapp3.1\Schemas.dll
+D:\DATA\ALL IT\Poject.Net\Schema\obj\Debug\netcoreapp3.1\Schemas.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.deps.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.runtimeconfig.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.runtimeconfig.dev.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.csprojAssemblyReference.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.csproj.CoreCompileInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.AssemblyInfoInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.AssemblyInfo.cs
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\Schema\obj\Debug\netcoreapp3.1\Schemas.genruntimeconfig.cache

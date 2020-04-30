@@ -1,0 +1,40 @@
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csprojAssemblyReference.cache
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfoInputs.cache
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfo.cs
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.exe
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.exe
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.deps.json
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.runtimeconfig.json
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.runtimeconfig.dev.json
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.dll
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.pdb
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\DATA\ALL IT\Poject.Net\UnitTest\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csproj.CopyComplete
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.dll
+D:\DATA\ALL IT\Poject.Net\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\Schemas.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.exe
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.deps.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.runtimeconfig.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.runtimeconfig.dev.json
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\UnitTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\Schemas.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\FormulatrixOnlineTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\bin\Debug\netcoreapp3.1\Schemas.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csprojAssemblyReference.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csproj.CoreCompileInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfoInputs.cache
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfo.cs
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csproj.CopyComplete
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.dll
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.pdb
+D:\GULIT\Opportunity\FormulatrixOnlineTest\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.genruntimeconfig.cache
